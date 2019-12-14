@@ -1,0 +1,168 @@
+
+
+html{
+	max-width:1280px;
+    min-width: 320px;
+	background-color: #242424;
+	padding: 0%;
+	border: 0ch;
+	margin:0pt auto; 
+}
+
+* {
+	box-sizing: border-box;
+}
+p,h1,h2,h3,h4,h4,h6,div,span {
+	font-family:PingFangSC-Regular,sans-serif,Microsoft JhengHei;	
+}
+
+p {
+	font-size: 16px;
+}
+
+@media screen and (min-width: 320px){
+
+	.box1{
+
+		background-image: url(../img/S/S-1.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 240px ;
+	   
+	   }
+	   .box2{
+
+		background-image: url(../img/S/S-2.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 269px ;
+	   
+	   }
+	   .box3{
+
+		background-image: url(../img/S/S-3.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 262px ;
+	   
+	   }
+	   .box4{
+
+		background-image: url(../img/S/S-4.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 45px ;
+	   
+	   }
+
+}
+
+@media screen and (min-width: 720px){
+
+	.box1{
+
+		background-image: url(../img/M/M-1.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 513px ;
+	   }
+
+	   .box2{
+
+		background-image: url(../img/M/M-2.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 548px ;
+	   }
+
+	   .box3{
+
+		background-image: url(../img/M/M-3.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 530px ;
+	   }
+
+	   .box4{
+
+		background-image: url(../img/M/M-4.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 96px ;
+	   }
+
+}
+
+@media screen and (min-width: 1280px){
+
+	.box1{
+
+		background-image: url(../img/L/L-1.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 719px ;
+	   
+	   }
+	   .box2{
+
+		background-image: url(../img/L/L-2.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 655px ;
+	   
+	   }
+	   .box3{
+
+		background-image: url(../img/L/L-3.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 769px ;
+	   
+	   }
+	   .box4{
+
+		background-image: url(../img/L/L-4.png);
+		background-color: #242424;
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: top center;
+		padding: 0%;
+		height: 159px ;
+	   
+	   }
+
+}
+
